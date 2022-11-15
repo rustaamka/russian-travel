@@ -17,7 +17,7 @@
 *Шарипов Рустам*
 
 ## *Ссылка на проект**
-https://rustaamka.github.io/russian-travel/
+https://rustaamka.github.io/russian-travel/html
 
 ## **Инструкция по использованию проекта и системные требования**
 
