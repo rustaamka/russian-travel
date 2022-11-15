@@ -4,26 +4,26 @@
   font-size: 54px;
   line-height: 58px;
   margin: 0;
-  }
+}
 
-  @media screen and (max-width:768px) {
-    .intro__title {
-      max-width: 720px;
-    }
+@media screen and (max-width:768px) {
+  .intro__title {
+    max-width: 720px;
   }
+}
 
-  @media screen and (max-width:356px) {
-    .intro__title {
-      max-width: 350px;
-      font-size: 35px;
-      line-height: 40px;
-    }
+@media screen and (max-width:450px) {
+  .intro__title {
+    max-width: 350px;
+    font-size: 35px;
+    line-height: 40px;
   }
+}
 
-  @media screen and (max-width:320px) {
-    .intro__title {
-      max-width: 288px;
-      font-size: 32px;
-      line-height: 35px;
-    }
+@media screen and (max-width:320px) {
+  .intro__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
   }
+}

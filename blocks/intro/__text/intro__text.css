@@ -2,18 +2,18 @@
   max-width: 690px;
   font-weight: 400;
   font-size: 16px;
-  line-height: 26.08px;
+  line-height: 26px;
   margin: 40px 0 33px 0;
-  }
+}
 
-  @media screen and (max-width:768px) {
-    .intro__text {
-      max-width: 720px;
-    }
+@media screen and (max-width:768px) {
+  .intro__text {
+    max-width: 720px;
   }
+}
 
-  @media screen and (max-width:320px) {
-    .intro__text {
-      max-width: 288px;
-    }
+@media screen and (max-width:320px) {
+  .intro__text {
+    max-width: 288px;
   }
+}

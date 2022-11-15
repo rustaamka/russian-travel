@@ -4,23 +4,22 @@
   font-size: 72px;
   grid-area: place__title;
   margin: 0;
+}
+
+
+@media screen and (max-width:768px) {
+  .place__title {
+    line-height: 46px;
+    font-size: 42px;
+    max-width: 320px;
   }
+}
 
-
-  @media screen and (max-width:768px) {
-    .place__title{
-      line-height: 46px;
-      font-size: 42px;
-      max-width: 320px;
-    }
+@media screen and (max-width:320px) {
+  .place__title {
+    line-height: 35px;
+    font-size: 32px;
+    max-width: 288px;
+    margin-left: 16px;
   }
-
-  @media screen and (max-width:320px) {
-    .place__title{
-      line-height: 35px;
-      font-size: 32px;
-      max-width: 288px;
-      margin-left: 16px;
-    }
-  }
-
+}

@@ -5,13 +5,8 @@
   grid-area: place__image;
 }
 
-@media screen and (max-width:1024px) {
-  
-}
-
 @media screen and (max-width:768px) {
-  .place__image{
-  max-height: 340px;
+  .place__image {
+    max-height: 340px;
   }
 }
-
